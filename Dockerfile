@@ -7,3 +7,4 @@ RUN mvn package
 RUN cp /opt/war-web-project/target/wwp-1.0.0.war /usr/local/tomcat/webapps/
 EXPOSE 8080
 11111
+2222222
